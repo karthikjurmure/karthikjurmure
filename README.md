@@ -10,11 +10,11 @@ Building scalable backend systems, AI-powered applications and solving DSA probl
 
 <p align="center">
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://github.com/karthikjurmure/karthikjurmure&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.linkedin.com/in/karthik-jurmure-48087b1b9/&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:karthikjurmure@gmail.com">
@@ -22,7 +22,7 @@ Building scalable backend systems, AI-powered applications and solving DSA probl
 </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://leetcode.com/u/karthikjurmure/&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
@@ -45,7 +45,6 @@ Building scalable backend systems, AI-powered applications and solving DSA probl
 
 <p align="center">
 
-<img src="https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME" height="180"/>
 
 </p>
 
@@ -149,25 +148,6 @@ AI powered ATS Resume Analyzer with distributed backend architecture.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📫 Connect with Me
 
