@@ -169,24 +169,12 @@ AI powered ATS Resume Analyzer with distributed backend architecture.
 
 ---
 
-# 📈 GitHub Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
-
----
-
 # 📫 Connect with Me
 
 - 📧 **karthikjurmure@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 🧩 LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME
+- 💼 LinkedIn: https://www.linkedin.com/in/karthik-jurmure-48087b1b9/
+- 💻 GitHub: https://github.com/karthikjurmure/karthikjurmure
+- 🧩 LeetCode: https://leetcode.com/u/karthikjurmure/
 
 ---
 
