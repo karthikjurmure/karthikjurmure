@@ -8,24 +8,7 @@ Full Stack Developer • Backend Engineer • AI Enthusiast • Competitive Prog
 Building scalable backend systems, AI-powered applications and solving DSA problems.
 </p>
 
-<p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github.com/karthikjurmure/karthikjurmure&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://www.linkedin.com/in/karthik-jurmure-48087b1b9/&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:karthikjurmure@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://leetcode.com/u/karthikjurmure/&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
 
 ---
 
