@@ -53,20 +53,6 @@ Building scalable backend systems, AI-powered applications and solving DSA probl
 - ⭐ **Max Rating:** 1724
 - 🏅 **Contest Rank:** 2243 / 21,200+
 
----
-
-# 💼 Experience
-
-## Tata Consultancy Services (TCS)
-
-**System Engineer** (May 2025 – Present)
-
-- Developed Python automation for employee sick leave reconciliation.
-- Improved data accuracy by **85%** through reusable validation modules.
-- Automated reminder notification workflow.
-- Built modular exception handling and logging framework.
-
----
 
 # 🚀 Featured Projects
 
