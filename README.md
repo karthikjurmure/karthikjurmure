@@ -14,7 +14,7 @@ Building scalable backend systems, AI-powered applications and solving DSA probl
 
 # 🚀 About Me
 
-- 💼 Software Engineer at **Tata Consultancy Services (TCS)**
+- 💼 Software Engineer
 - 💻 Passionate about Backend Development & System Design
 - 🤖 Interested in AI, RAG Applications and LLMs
 - 🌱 Currently learning Distributed Systems & Cloud
